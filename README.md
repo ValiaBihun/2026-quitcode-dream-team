@@ -4,8 +4,8 @@
 > changes…»):
 >
 > - Команда: `dream-team`
-> - Сховище вимог: **docs/**
-> - Продукт: Purchasing App — [`docs/product.md`](docs/product.md)
+> - Сховище вимог: **issues**
+> - Продукт: Purchasing App — [issue «Продукт»](https://github.com/ValiaBihun/2026-quitcode-dream-team/issues/1)
 
 Тут PM команди веде **вимоги до продукту** людською мовою за шаблоном. Коду, бази й деплою тут немає, і нічого
 встановлювати не треба: усе робиться у вебінтерфейсі GitHub.
